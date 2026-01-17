@@ -4,6 +4,6 @@ def divide(number):
 
 if __name__ == "__main__":
     while True:
-        ipt = input("enter a number: ")
+        inpt = input("enter a number: ")
         
-        print(divide(ipt))
+        print(divide(inpt))
