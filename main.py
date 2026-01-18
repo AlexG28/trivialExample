@@ -6,4 +6,4 @@ if __name__ == "__main__":
     while True:
         inpt = input("enter a number: ")
         
-        print(divide(inpt))
+        print(divide(float(inpt)))
